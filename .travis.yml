@@ -6,8 +6,8 @@ cache:
   - node_modules
 script:
   - npm test
-  - npm run build
-  - npm run deploy
+  - CI=false npm run build
+  - CI=false npm run deploy
 
 deploy:
   provider: pages
