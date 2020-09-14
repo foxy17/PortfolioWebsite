@@ -16,8 +16,6 @@
 </p>
 
 
-[![Site preview](/public/social-image.png)](https://foxy17.github.io/PortfolioWebsite)
-
 ## Table of Contents
 
 - [Technology Stack 🛠️](#technology-stack-)
