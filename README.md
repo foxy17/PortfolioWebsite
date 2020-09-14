@@ -1,5 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
+[![Build Status](https://travis-ci.org/foxy17/PortfolioWebsite.svg?branch=master)](https://travis-ci.org/foxy17/PortfolioWebsite)
 <p align="center">
   <h1 align="center">My Portfolio ✨</h1>
 
