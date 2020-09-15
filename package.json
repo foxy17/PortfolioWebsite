@@ -31,9 +31,11 @@
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "custom-deploy": "node pages.js"
+    "custom-deploy": "node pages.js",
+    "test:coverage": "npm test -- --coverage"
+  
   },
   "eslintConfig": {
     "extends": "react-app"

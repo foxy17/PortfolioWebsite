@@ -1,5 +1,4 @@
-import React, { useState } from "react";
-import Carousel from "react-bootstrap/Carousel";
+import React from "react";
 import Service from "../../editable-stuff/youngun.JPG";
 import useWindowDimensions from "../size";
 import AwesomeSlider from "react-awesome-slider";
@@ -15,12 +14,12 @@ const Freelance = () => {
   };
   return (
     <div
-      id="leadership"
-      className="jumbotron jumbotron-fluid m-0"
-      style={{ backgroundColor: "white" }}
+      id="freelance"
+      className="jumbotron jumbotron-fluid m-0 "
+      style={{ backgroundColor: "white" ,height:height }}
     >
-      <div className="container container-fluid">
-        <div className="row">
+      <div className="container container-fluid align-self-center ">
+        <div className="row ">
           <div className="col d-lg-inline align-self-center">
             <h1 className="display-4 mb-3 text-center">Freelance Feedbacks</h1>
             <br />

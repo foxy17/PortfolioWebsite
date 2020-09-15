@@ -10,18 +10,19 @@ import {
 import MainBody from "./components/home/MainBody";
 import AboutMe from "./components/home/AboutMe";
 import Project from "./components/home/Project";
+import Freelance from "./components/home/Freelance";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import { Blog } from "./components/blog/Blog";
 import BlogPost from "./components/blog/BlogPost";
-import Freelance from "./components/home/Freelance";
+
 
 const Home = () => {
   return (
     <Fragment>
       <MainBody />
       <AboutMe />
-      <Freelance/>
+      <Freelance />
       <Project />
     </Fragment>
   );
