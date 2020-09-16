@@ -17,7 +17,6 @@
 
 
 ## Table of Contents
-  [![Build Status](https://travis-ci.org/foxy17/PortfolioWebsite.svg?branch=master)](https://travis-ci.org/foxy17/PortfolioWebsite)
 - [Technology Stack 🛠️](#technology-stack-)
 - [Structure ⚓](#structure-)
 
