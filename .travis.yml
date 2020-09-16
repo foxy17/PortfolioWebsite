@@ -7,9 +7,9 @@ cache:
 install:
 - npm install
 script:
-  - CI=false npm run coveralls
   - CI=false npm run build
-
+after_success:
+  - CI=false npm run coveralls
 deploy:
   provider: pages
   skip_cleanup: true
