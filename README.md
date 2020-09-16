@@ -1,4 +1,6 @@
 <!-- PROJECT LOGO -->
+<a href='https://coveralls.io/github/foxy17/PortfolioWebsite'><img src='https://coveralls.io/repos/github/foxy17/PortfolioWebsite/badge.svg' alt='Coverage Status' /></a>
+<a href='https://travis-ci.org/foxy17/PortfolioWebsite'><img src='https://travis-ci.org/foxy17/PortfolioWebsite.svg?branch=master' alt='Coverage Status' /></a>
 <br />
 
 <p align="center">
@@ -9,9 +11,7 @@
     <a href="https://foxy17.github.io/PortfolioWebsite">foxy17.github.io</a>
     <br />
     <br />
-    <a href="https://github.com/hashirshoaeb/home/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/hashirshoaeb/home/issues">Request Feature</a>
+    <a >Request Feature</a>
   </p>
 </p>
 
