@@ -4,8 +4,10 @@ node_js:
 cache:
   directories:
   - node_modules
+install:
+- npm install
 script:
-  - npm test
+  - CI=false npm run coveralls
   - CI=false npm run build
 
 deploy:

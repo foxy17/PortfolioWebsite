@@ -34,8 +34,8 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "custom-deploy": "node pages.js",
-    "test:coverage": "npm test -- --coverage"
-  
+    "test:coverage": "npm test -- --coverage",
+    "coveralls": "npm test -- --coverage --watchAll=false && cat ./coverage/lcov.info | coveralls"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -51,5 +51,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "coveralls": "^3.1.0",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.4"
   }
 }
