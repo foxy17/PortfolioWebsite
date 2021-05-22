@@ -54,23 +54,23 @@ const Freelance = () => {
                       </a>
                       <Row  className="lead d-block mx-auto">
                       <b className="h3">-Saksham Jadon</b><br/>
-                      &nbsp;&nbsp;Founder Youngun
+                      &nbsp;&nbsp;Founder <a href="https://youngun.in" target="_blank">Youngun</a>
 
                       </Row>
                     </Col>
                   </Row>
-                  {/* <div className="col d-lg-inline align-self-center" style= {{ color:'white',flex:1 , width: undefined, height: undefined}} >
-                  Test
                 </div>
-                <div className="col d-lg-inline align-self-center"  style= {{flex:1 , width: undefined, height: undefined}}>
-                <img
-                    className="rounded"
-                    src={Service}
-                    alt="SEC"
-                    style= {{flex:1 , width: undefined, height: undefined}}
-                   
-                  /> 
-                </div> */}
+                <div>
+                  <Row className="justify-content-md-center">
+                    <Col xs className="lead" md={7}>
+                      <b>Arnav</b> is a highly skilled full stack developer and has deep knowledge about latest technology. 
+                      Arnav is a really great person to work with. Looking forward to working with him again.
+                      <br/>
+                      <br/>
+                      <b className="h3">-Gaggan Talreja</b><br/>
+                      &nbsp;&nbsp;Co-worker <a href="https://memeunion.in" target="_blank">Memeunion</a>
+                    </Col>
+                  </Row>
                 </div>
               </AwesomeSlider>
             </div>

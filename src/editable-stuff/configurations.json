@@ -5,7 +5,7 @@
   "FirstName": "Arnav",
   "MiddleName": "Singh",
   "LastName": "Chauhan",
-  "devDesc": "| Engineer | Programmer | Web Developer | App Developer | Athlete | Gamer ",
+  "devDesc": "To understand what recursion is, you must first understand recursion",
   "icons": [
     {
       "id": 0,
@@ -33,16 +33,16 @@
     }
   ],
   "aboutHeading": "About Me",
-  "showInstaProfilePic": false,
+  "showInstaProfilePic": true,
   "instaLink": "https://www.instagram.com/",
-  "instaUsername": "renegademess",
+  "instaUsername": "renegade.mess",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "I'm Computer Engineer from Bennett University, Delhi with 3+ years of experience in web development. I’m currently working as a MEAN Stack and Flutter Developer in Newsg8r. I'm passionate about exploring latest technologies and making designs come to life! I also work as freelancers and have expirience in making customized CMS systems.",
+  "aboutDescription": "",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "foxy17",
-  "gitHubQuerry": "/repos?sort=updated&direction=desc",
-  "projectsLength": 2,
+  "gitHubQuerry": "/starred",
+  "projectsLength": 4,
   "showNavigationbar": true,
   "showBlog": false
 }

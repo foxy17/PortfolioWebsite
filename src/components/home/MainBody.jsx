@@ -34,9 +34,12 @@ const MainBody = () => {
       >
         <div id="stars"></div>
         <div className="container container-fluid text-center ">
-          <h1 className="display-1">
+          <h1 className="display-1 bold">
             {FirstName + " " + MiddleName + " " + LastName}
           </h1>
+          <h2 >
+          I build things for the web and create simple solutions for complex problems.
+          </h2>
           <Typist className="lead"> {devDesc}</Typist>
           <div className="p-5">
             {icons.map((icon) => (
